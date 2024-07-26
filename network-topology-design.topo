@@ -56,12 +56,12 @@
                 <interface sztype="Ethernet" interfacename="GE" count="2" />
             </slot>
         </dev>
-        <dev id="06E914F0-9002-43d5-8093-FE15A0025195" name="HTTP服务器" poe="0" model="Server" settings="-domain 0 -eth 54-89-98-60-6B-C4 -ipaddr 10.0.151.1 -ipmask 255.255.255.0 -gateway 10.0.151.254 -ipv6addr 2000::2 -ipv6gateway 2000::1 -prefixlen 64 -ipv4dns 0.0.0.0 -ipv6dns 3000::1 -dnslist NULL" system_mac="54-89-98-C4-80-68" com_port="0" bootmode="0" cx="1174.639160" cy="66.343414" edit_left="1190" edit_top="53">
+        <dev id="06E914F0-9002-43d5-8093-FE15A0025195" name="HTTP服务器" poe="0" model="Server" settings="-domain 0 -eth 54-89-98-60-6B-C4 -ipaddr 10.0.151.1 -ipmask 255.255.255.0 -gateway 10.0.151.254 -ipv6addr 2000::2 -ipv6gateway 2000::1 -prefixlen 64 -ipv4dns 0.0.0.0 -ipv6dns 3000::1 -dnslist NULL" system_mac="54-89-98-3B-4E-2B" com_port="0" bootmode="0" cx="1174.639160" cy="66.343414" edit_left="1190" edit_top="53">
             <slot number="slot17" isMainBoard="1">
                 <interface sztype="Ethernet" interfacename="Ethernet" count="1" />
             </slot>
         </dev>
-        <dev id="566BAA17-C68E-438c-A61F-27F22627CFB7" name="分部技术部-2" poe="0" model="Client" settings="-domain 0 -eth 54-89-98-85-79-EA -ipaddr 172.16.4.30 -ipmask 255.255.255.0 -gateway 172.16.4.254 -ipv6addr 2000::2 -ipv6gateway 2000::1 -prefixlen 64 -ipv4dns 0.0.0.0 -ipv6dns 3000::1 -dnslist NULL" system_mac="54-89-98-F5-01-E3" com_port="0" bootmode="0" cx="1338.562134" cy="1108.344604" edit_left="1368" edit_top="1162">
+        <dev id="566BAA17-C68E-438c-A61F-27F22627CFB7" name="分部技术部-2" poe="0" model="Client" settings="-domain 0 -eth 54-89-98-85-79-EA -ipaddr 172.16.4.30 -ipmask 255.255.255.0 -gateway 172.16.4.254 -ipv6addr 2000::2 -ipv6gateway 2000::1 -prefixlen 64 -ipv4dns 0.0.0.0 -ipv6dns 3000::1 -dnslist NULL" system_mac="54-89-98-6C-4E-A6" com_port="0" bootmode="0" cx="1338.562134" cy="1108.344604" edit_left="1368" edit_top="1162">
             <slot number="slot17" isMainBoard="1">
                 <interface sztype="Ethernet" interfacename="Ethernet" count="1" />
             </slot>
@@ -143,12 +143,12 @@
                 <interface sztype="Ethernet" interfacename="GE" count="2" />
             </slot>
         </dev>
-        <dev id="BDE60444-657D-423a-BCF8-904FD572FA02" name="总部财务部-2" poe="0" model="Client" settings="-domain 0 -eth 54-89-98-9A-49-36 -ipaddr 192.168.0.100 -ipmask 255.255.255.0 -gateway 192.168.0.254 -ipv6addr 2000::2 -ipv6gateway 2000::1 -prefixlen 64 -ipv4dns 0.0.0.0 -ipv6dns 3000::1 -dnslist NULL" system_mac="54-89-98-C1-14-04" com_port="0" bootmode="0" cx="504.094727" cy="1108.831665" edit_left="531" edit_top="1162">
+        <dev id="BDE60444-657D-423a-BCF8-904FD572FA02" name="总部财务部-2" poe="0" model="Client" settings="-domain 0 -eth 54-89-98-9A-49-36 -ipaddr 192.168.0.100 -ipmask 255.255.255.0 -gateway 192.168.0.254 -ipv6addr 2000::2 -ipv6gateway 2000::1 -prefixlen 64 -ipv4dns 0.0.0.0 -ipv6dns 3000::1 -dnslist NULL" system_mac="54-89-98-A4-4B-94" com_port="0" bootmode="0" cx="504.094727" cy="1108.831665" edit_left="531" edit_top="1162">
             <slot number="slot17" isMainBoard="1">
                 <interface sztype="Ethernet" interfacename="Ethernet" count="1" />
             </slot>
         </dev>
-        <dev id="3CF84401-9063-4f35-978B-06A7DBBC2C86" name="总部技术部-2" poe="0" model="Client" settings="-domain 0 -eth 54-89-98-5D-73-AA -ipaddr 192.168.2.100 -ipmask 255.255.255.0 -gateway 192.168.2.254 -ipv6addr 2000::2 -ipv6gateway 2000::1 -prefixlen 64 -ipv4dns 0.0.0.0 -ipv6dns 3000::1 -dnslist NULL" system_mac="54-89-98-C1-1F-C4" com_port="0" bootmode="0" cx="714.480896" cy="1108.859741" edit_left="741" edit_top="1162">
+        <dev id="3CF84401-9063-4f35-978B-06A7DBBC2C86" name="总部技术部-2" poe="0" model="Client" settings="-domain 0 -eth 54-89-98-5D-73-AA -ipaddr 192.168.2.100 -ipmask 255.255.255.0 -gateway 192.168.2.254 -ipv6addr 2000::2 -ipv6gateway 2000::1 -prefixlen 64 -ipv4dns 0.0.0.0 -ipv6dns 3000::1 -dnslist NULL" system_mac="54-89-98-A1-2C-8D" com_port="0" bootmode="0" cx="714.480896" cy="1108.859741" edit_left="741" edit_top="1162">
             <slot number="slot17" isMainBoard="1">
                 <interface sztype="Ethernet" interfacename="Ethernet" count="1" />
             </slot>
@@ -476,7 +476,6 @@
         <txttip left="584" top="1232" right="804" bottom="1292" content="vlan 114:192.168.2.0/24&#x0D;&#x0A;dns:119.29.29.29&#x0D;&#x0A;2001:0db8:2::0/64" fontname="Consolas" fontstyle="0" editsize="100" txtcolor="-16777216" txtbkcolor="-7278960" charset="1" />
         <txttip left="350" top="698" right="364" bottom="719" content="7" fontname="Consolas" fontstyle="0" editsize="100" txtcolor="-16777216" txtbkcolor="-7278960" charset="1" />
         <txttip left="348" top="770" right="362" bottom="791" content="6" fontname="Consolas" fontstyle="0" editsize="100" txtcolor="-16777216" txtbkcolor="-7278960" charset="1" />
-        <txttip left="15" top="30" right="554" bottom="90" content="目前的问题&#x0D;&#x0A;1.vrrp6无法ping通虚拟网关&#x0D;&#x0A;2.AC的 BFD无法生效，除非直连，OSPFv3的bfd只能在防火墙上开" fontname="Consolas" fontstyle="0" editsize="100" txtcolor="-16777216" txtbkcolor="-7278960" charset="1" />
         <txttip left="212" top="1192" right="311" bottom="1213" content="总部 trust" fontname="Consolas" fontstyle="0" editsize="100" txtcolor="-16777216" txtbkcolor="-32768" charset="1" />
         <txttip left="1786" top="1199" right="1885" bottom="1220" content="分部 trust" fontname="Consolas" fontstyle="0" editsize="100" txtcolor="-16777216" txtbkcolor="-32768" charset="1" />
         <txttip left="555" top="198" right="672" bottom="219" content="公网 untrust" fontname="Consolas" fontstyle="0" editsize="100" txtcolor="-16777216" txtbkcolor="-32768" charset="1" />
