@@ -3,6 +3,7 @@
 <div align="center">
   <img alt="Image" src="https://github.com/piqiu8/network-topology-design/blob/master/desigin-image.png">
   <br>
+  <br>
   <div>
     <img alt="simulator" src="https://img.shields.io/badge/simulator-ENSP-blue.svg">
     <img alt="protocol" src="https://img.shields.io/badge/protocol-IPv4%20%7C%20IPv6%20%7C%20BGP-blueviolet.svg">
@@ -15,36 +16,6 @@
 ## 使用技术
 
 `GVRP` `链路聚合` `DHCP` `DHCPv6` `MSTP` `AC旁挂` `VRRP` `VRRP6` `防火墙双机热备` `OSPF` `OSPFv3` `RIP` `RIPng` `ISIS` `ISISv6` `BGP` `BFD` `GRE over IPsec` `ACL` `路由策略` `NAPT` `NAT Server` `NAT64`
-
-### GVRP
-
-- 通过设置端口模式为normal、fixed或forbidden来自动管理VLAN信息
-
-### 链路聚合
-
-- 将多个物理链路合并为一个逻辑链路来做到冗余路径
-
-### DHCP以及DHCPv6
-
-- 自动下发IPv4及IPv6地址给客户端
-
-### MSTP
-
-- 用于在以太网交换网络中提供冗余路径，并防止环路的发生
-
-### AC旁挂
-
-- 实现无线网络，并允许无线用户直接访问有线网络资源，而不需要经过AC
-
-### VRRP以及VRRP6
-
-- 用于提供冗余的路由器功能，以确保网络的高可用性和故障恢复能力
-
-### 防火墙双机热备
-
-- 部署一对防火墙设备以确保即使其中一个设备发生故障，网络流量也能够继续正常流动
-
-### OSPF以及OSPFV3
 
 ## 具体设计
 
@@ -99,5 +70,5 @@
 
 ~~(多半又是ENSP的BUG)~~
 
-- VRRP6ping不通虚拟网关，无法正常生效 ~(我试出了个[邪道方法](https://blog.csdn.net/m0_67832087/article/details/136608267)，可以ping通虚拟网关，但意义不大)~
+- VRRP6ping不通虚拟网关，无法正常生效 (我试出了个[邪道方法](https://blog.csdn.net/m0_67832087/article/details/136608267)，可以ping通虚拟网关，但意义不大)
 - AC的BFD无法生效，OSPFv3的BFD只能在防火墙上开
