@@ -1,7 +1,7 @@
 <!-- markdownlint-disable -->
 
 <div align="center">
-  <img alt="Image" src="https://github.com/piqiu8/network-topology-design/blob/master/README_image.png">
+  <img alt="Image" src="https://github.com/piqiu8/network-topology-design/blob/master/desigin-image.png">
   <br>
   <div>
     <img alt="simulator" src="https://img.shields.io/badge/simulator-ENSP-blue.svg">
